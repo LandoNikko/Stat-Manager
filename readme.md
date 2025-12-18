@@ -1,0 +1,1 @@
+Stat manager feature radar chart configuration. Initial prototype test
